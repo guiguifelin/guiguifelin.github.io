@@ -1,0 +1,30 @@
+html {
+        font-size: 100%; 
+}
+body{ /*corps de la page */
+        background-image: url(lightning.jpg); 
+          
+        background-size: 100%;
+
+        background-attachment:fixed; 
+        
+        font-family: Verdana, "Bitstream Vera Sans", "Lucida Grande", sans-serif; 
+        
+}
+
+IMG.displayed {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: auto;
+	
+	}
+IMG.title{
+		height: 250px;
+		width: auto;
+		display: block;
+		margin-left: 200px;
+		margin-right: auto;
+		margin-top: 200px; 
+		margin-bottom: auto;
+}
