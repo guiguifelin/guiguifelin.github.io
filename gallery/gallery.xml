@@ -1,96 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<simpleviewergallery
-	
-	galleryStyle="MODERN"
-	title="SimpleViewer Gallery"
-	textColor="FFFFFF"
-	frameColor="FFFFFF"
-	frameWidth="20"
-	thumbPosition="LEFT"
-	thumbColumns="3"
-	thumbRows="3"
-	showOpenButton="TRUE"
-	showFullscreenButton="TRUE"	
-	maxImageWidth="640"
-	maxImageHeight="640"
-	useFlickr="false"
-	flickrUserName=""
-	flickrTags=""
-	languageCode="AUTO"
-	languageList=""		
-	imagePath="images/"
-	thumbPath="thumbs/"
-	
->
+<simpleviewergallery 
 
-<image imageURL="images/wide.jpg" thumbURL="thumbs/wide.jpg" linkURL="" linkTarget="" >
-	<caption><![CDATA[Welcome to <u><a href="http://www.simpleviewer.net" target="_blank">SimpleViewer</a></u>.]]></caption>	
-</image>
-<image imageURL="images/tall.jpg" thumbURL="thumbs/tall.jpg" linkURL="" linkTarget="" >
-	<caption>SimpleViewer is a free, customizable image gallery. Use it to display your images on any web page in a professional, intuitive and simple way.</caption>	
-</image>
-<image imageURL="images/wide.jpg" thumbURL="thumbs/wide.jpg" linkURL="" linkTarget="" >
-	<caption>SimpleViewer supports Universal Playback and can be viewed on Windows, Mac, Linux, iPhone, iPad and Android. Try it and see!</caption>	
-</image>
-<image imageURL="images/tall.jpg" thumbURL="thumbs/tall.jpg" linkURL="" linkTarget="" >
-	<caption><![CDATA[Easily create SimpleViewer galleries using <u><a href="http://www.simpleviewer.net/simpleviewer/support/svbuilder" target="_blank">svBuilder</a></u>, our free desktop app.]]></caption>	
-</image>
-<image imageURL="images/wide.jpg" thumbURL="thumbs/wide.jpg" linkURL="" linkTarget="" >
-	<caption>SimpleViewer features intuitive image navigation, smart image pre-loading and a resizable interface that scales to fit the browser window (try resizing your browser).</caption>	
-</image>
-<image imageURL="images/tall.jpg" thumbURL="thumbs/tall.jpg" linkURL="" linkTarget="" >
-	<caption><![CDATA[Supports optional <b>fullscreen mode</b> and <b>external image links</b> via the Button Bar at top-right and the right-click menu.]]></caption>	
-</image>
-<image imageURL="images/wide.jpg" thumbURL="thumbs/wide.jpg" linkURL="http://www.simpleviewer.net" linkTarget="_blank" >
-	<caption>This image use the linkURL attribute to link to a specific URL (use the arrow icon button at top-right to navigate).</caption>	
-</image>
-<image imageURL="images/tall.jpg" thumbURL="thumbs/tall.jpg" linkURL="" linkTarget="" >
-	<caption><![CDATA[Captions can be HTML formatted. Supported tags are <b>bold</b>, <u>underline</u>, <i>italics</i>, <u><a href="http://www.simpleviewer.net" target="_blank">hyperlinks</a></u>, linebreaks<br> and <font color="#ffff00" size="30">font tags</font>]]></caption>	
-</image>
-<image imageURL="images/wide.jpg" thumbURL="thumbs/wide.jpg" linkURL="" linkTarget="" >
-	<caption>Handles images with different aspect ratios. Images can be tall or wide.</caption>	
-</image>
-<image imageURL="images/tall.jpg" thumbURL="thumbs/tall.jpg" linkURL="" linkTarget="" >
-	<caption>Images can be loaded via an XML document or directly from Flickr using a Flickr user name and/or tags..</caption>	
-</image>
-<image imageURL="images/wide.jpg" thumbURL="thumbs/wide.jpg" linkURL="" linkTarget="" >
-	<caption>3 different standard gallery styles: Modern, Classic and Compact.</caption>	
-</image>
-<image imageURL="images/tall.jpg" thumbURL="thumbs/tall.jpg" linkURL="" linkTarget="" >
-	<caption>Navigate through the images by clicking or using the keyboard: Cursor keys, Home, End, Page Up/Down.</caption>	
-</image>
-<image imageURL="images/wide.jpg" thumbURL="thumbs/wide.jpg" linkURL="" linkTarget="" >
-	<caption><![CDATA[View available <u><a href="http://www.simpleviewer.net/simpleviewer/support/standard_options.html" target="_blank">configuration options</a></u>.]]></caption>	
-</image>
-<image imageURL="images/tall.jpg" thumbURL="thumbs/tall.jpg" linkURL="" linkTarget="" >
-	<caption><![CDATA[Includes automatic international language support, and supports non-english characters<br><br>ンツを活用して広告収入を得ることが可能]]></caption>	
-</image>
-<image imageURL="images/wide.jpg" thumbURL="thumbs/wide.jpg" linkURL="" linkTarget="" >
-	<caption><![CDATA[For SimpleViewer support and documentation, view the <u><a href="http://www.simpleviewer.net/simpleviewer/support" target="_blank">SimpleViewer Support Page</a></u>.]]></caption>	
-</image>
-<image imageURL="images/tall.jpg" thumbURL="thumbs/tall.jpg" linkURL="" linkTarget="" >
-	<caption><![CDATA[For advanced customization options, no download link and more - upgrade to <br><u><a href="http://www.simpleviewer.net/simpleviewer/pro" target="_blank">SimpleViewer-Pro</a></u>.]]></caption>	
-</image>
-<image imageURL="images/wide.jpg" thumbURL="thumbs/wide.jpg" linkURL="" linkTarget="" >
-	<caption></caption>	
-</image>
-<image imageURL="images/tall.jpg" thumbURL="thumbs/tall.jpg" linkURL="" linkTarget="" >
-	<caption></caption>	
-</image>
-<image imageURL="images/wide.jpg" thumbURL="thumbs/wide.jpg" linkURL="" linkTarget="" >
-	<caption></caption>	
-</image>
-<image imageURL="images/tall.jpg" thumbURL="thumbs/tall.jpg" linkURL="" linkTarget="" >
-	<caption></caption>	
-</image>
-<image imageURL="images/wide.jpg" thumbURL="thumbs/wide.jpg" linkURL="" linkTarget="" >
-	<caption></caption>	
-</image>
-<image imageURL="images/tall.jpg" thumbURL="thumbs/tall.jpg" linkURL="" linkTarget="" >
-	<caption></caption>	
-</image>
-<image imageURL="images/wide.jpg" thumbURL="thumbs/wide.jpg" linkURL="" linkTarget="" >
-	<caption></caption>	
-</image>
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	title="Eubision"
+	frameColor="000000"
+
+>
+  <image imageURL="images/Photo du 10-01-2014 à 16.52.jpg"
+	thumbURL="thumbs/Photo du 10-01-2014 à 16.52.jpg"
+	linkURL="images/Photo du 10-01-2014 à 16.52.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Hologram 1]]></caption>
+  </image>
+  <image imageURL="images/Photo du 10-01-2014 à 16.53.jpg"
+	thumbURL="thumbs/Photo du 10-01-2014 à 16.53.jpg"
+	linkURL="images/Photo du 10-01-2014 à 16.53.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Hologram 2]]></caption>
+  </image>
+  <image imageURL="images/Photo du 10-01-2014 à 16.54.jpg"
+	thumbURL="thumbs/Photo du 10-01-2014 à 16.54.jpg"
+	linkURL="images/Photo du 10-01-2014 à 16.54.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Yosemite Nationnal Park 1]]></caption>
+  </image>
+  <image imageURL="images/Photo du 10-01-2014 à 16.55.jpg"
+	thumbURL="thumbs/Photo du 10-01-2014 à 16.55.jpg"
+	linkURL="images/Photo du 10-01-2014 à 16.55.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Yosemite Nation Park 2]]></caption>
+  </image>
+  <image imageURL="images/Photo du 10-01-2014 à 16.56.jpg"
+	thumbURL="thumbs/Photo du 10-01-2014 à 16.56.jpg"
+	linkURL="images/Photo du 10-01-2014 à 16.56.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Aquarium 1]]></caption>
+  </image>
+  <image imageURL="images/Photo du 10-01-2014 à 16.57.jpg"
+	thumbURL="thumbs/Photo du 10-01-2014 à 16.57.jpg"
+	linkURL="images/Photo du 10-01-2014 à 16.57.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Aquarium 2]]></caption>
+  </image>
+  <image imageURL="images/Photo du 10-01-2014 à 16.58.jpg"
+	thumbURL="thumbs/Photo du 10-01-2014 à 16.58.jpg"
+	linkURL="images/Photo du 10-01-2014 à 16.58.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Assommé 1]]></caption>
+  </image>
+  <image imageURL="images/Photo du 10-01-2014 à 16.59.jpg"
+	thumbURL="thumbs/Photo du 10-01-2014 à 16.59.jpg"
+	linkURL="images/Photo du 10-01-2014 à 16.59.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Assommé 2]]></caption>
+  </image>
+  <image imageURL="images/Photo du 10-01-2014 à 17.01.jpg"
+	thumbURL="thumbs/Photo du 10-01-2014 à 17.01.jpg"
+	linkURL="images/Photo du 10-01-2014 à 17.01.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Extraterrestre]]></caption>
+  </image>
+  <image imageURL="images/Photo du 10-01-2014 à 17.02.jpg"
+	thumbURL="thumbs/Photo du 10-01-2014 à 17.02.jpg"
+	linkURL="images/Photo du 10-01-2014 à 17.02.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Gros yeux]]></caption>
+  </image>
+  <image imageURL="images/Photo du 10-01-2014 à 17.03.jpg"
+	thumbURL="thumbs/Photo du 10-01-2014 à 17.03.jpg"
+	linkURL="images/Photo du 10-01-2014 à 17.03.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Rayon X]]></caption>
+  </image>
+  <image imageURL="images/Photo du 10-01-2014 à 17.04.jpg"
+	thumbURL="thumbs/Photo du 10-01-2014 à 17.04.jpg"
+	linkURL="images/Photo du 10-01-2014 à 17.04.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Symétrie]]></caption>
+  </image>
+  <image imageURL="images/Photo du 10-01-2014 à 17.05.jpg"
+	thumbURL="thumbs/Photo du 10-01-2014 à 17.05.jpg"
+	linkURL="images/Photo du 10-01-2014 à 17.05.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Symétrie 2]]></caption>
+  </image>
+  <image imageURL="images/Photo du 10-01-2014 à 17.06.jpg"
+	thumbURL="thumbs/Photo du 10-01-2014 à 17.06.jpg"
+	linkURL="images/Photo du 10-01-2014 à 17.06.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Attraction]]></caption>
+  </image>
+  <image imageURL="images/Photo du 10-01-2014 à 17.07.jpg"
+	thumbURL="thumbs/Photo du 10-01-2014 à 17.07.jpg"
+	linkURL="images/Photo du 10-01-2014 à 17.07.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Intello]]></caption>
+  </image>
+  <image imageURL="images/Photo du 10-01-2014 à 17.08.jpg"
+	thumbURL="thumbs/Photo du 10-01-2014 à 17.08.jpg"
+	linkURL="images/Photo du 10-01-2014 à 17.08.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Mélange]]></caption>
+  </image>
+  <image imageURL="images/Photo du 10-01-2014 à 17.09.jpg"
+	thumbURL="thumbs/Photo du 10-01-2014 à 17.09.jpg"
+	linkURL="images/Photo du 10-01-2014 à 17.09.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Hologram 3]]></caption>
+  </image>
+  <image imageURL="images/Photo du 10-01-2014 à 17.10.jpg"
+	thumbURL="thumbs/Photo du 10-01-2014 à 17.10.jpg"
+	linkURL="images/Photo du 10-01-2014 à 17.10.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Normal !]]></caption>
+  </image>
 </simpleviewergallery>
