@@ -1,0 +1,72 @@
+html {
+	font-size: 100%; 
+}
+body {
+	margin-right:20%;
+	margin-left:20%;
+	padding: 10px 20px; 
+	font-family: Verdana, "Bitstream Vera Sans", "Lucida Grande", sans-serif; 
+	font-size: .8em; 
+	line-height: 1.25; 
+	color: red;
+	background-size: 51%;
+	background-image: url('background-copy.png');
+	background-repeat: no-repeat;
+	background-position: center right 33%;
+}
+IMG.kh-title{
+	margin-left: 21%;
+}
+IMG.eubision{
+	height: 70px;
+	width: 350px;
+	margin-left: 44%;
+}
+#left{  
+	position: absolute;
+    background-color: rgba(200, 000, 000, 0.9);
+    position:fixed; 
+    font-size: 1.3em; 
+    right:800px;
+    left:14.25%; 
+    height: 1500px;    
+    width: 275px;
+}
+#left ul{
+	margin-top: 00px;
+	line-height: 200%;
+    background-color: rgba(000, 000, 000, 0.8); 
+    border-style: outset;
+    border-width: 5px;    
+    border-color: rgb( 100, 100, 150); 
+}
+#content{
+	margin-left: 25%;
+	margin-top: 0px;
+	font-size: 1.5em;
+}
+#dlcontent{
+	margin-top: 150px;
+	font-size: 2em;
+	margin-left: 20%;
+}
+#dl{
+	margin-left: 20%;
+	background-color: rgba(200,200,200,0.7);
+	border-style: outset;
+	border-color: rgb(200,0,0);
+}
+#dl:hover{
+	border-style: inset;
+	background-color: rgba(150,150,150,0.9);
+}
+ul, ol {
+    margin-top: 0px;
+	font-size: 1.25em;
+	padding: 0; 
+	
+	
+}
+
+
+
