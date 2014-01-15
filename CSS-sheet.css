@@ -41,6 +41,30 @@ IMG.eubision{
     border-width: 5px;    
     border-color: rgb( 100, 100, 150); 
 }
+h1{
+	position: absolute;
+	background position: center;
+	margin-left: 30%;
+}
+#list{
+	position: absolute;
+    background-color: rgba(200, 000, 000, 0.9);
+    position:fixed; 
+    font-size: 1em; 
+    right:800px;
+    left:19.4%; 
+    height: 1500px;    
+    width: 200px;
+}
+#list ul{
+	margin-top: 20px;
+	line-height: 200%;
+    background-color: rgba(000, 000, 000, 0.8);
+    width: 195px; 
+    border-style: outset;
+    border-width: 5px;    
+    border-color: rgb( 100, 100, 150); 
+}
 #content{
 	margin-left: 25%;
 	margin-top: 0px;
@@ -65,8 +89,6 @@ ul, ol {
     margin-top: 0px;
 	font-size: 1.25em;
 	padding: 0; 
-	
-	
 }
 
 
