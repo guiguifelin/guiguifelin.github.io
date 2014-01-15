@@ -46,6 +46,22 @@ h1{
 	background position: center;
 	margin-left: 30%;
 }
+#soutenances{
+	padding: 10px 20px; 
+	font-family: Verdana, "Bitstream Vera Sans", "Lucida Grande", sans-serif; 
+	font-size: .8em; 
+	line-height: 1.25; 
+	color: red;
+	background-size: 51%;
+	background-repeat: no-repeat;
+	background-position: center right 33%;
+}
+#text{
+	margin-left: 15%;
+	margin-right: 20%;
+	margin-top:10%;
+	position: absolute;
+}
 #list{
 	position: absolute;
     background-color: rgba(200, 000, 000, 0.9);
@@ -57,6 +73,7 @@ h1{
     width: 200px;
 }
 #list ul{
+
 	margin-top: 20px;
 	line-height: 200%;
     background-color: rgba(000, 000, 000, 0.8);
