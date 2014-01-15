@@ -28,14 +28,15 @@ IMG.eubision{
     position:fixed; 
     font-size: 1.3em; 
     right:800px;
-    left:14.25%; 
+    left:19.4%; 
     height: 1500px;    
-    width: 275px;
+    width: 200px;
 }
 #left ul{
 	margin-top: 00px;
 	line-height: 200%;
-    background-color: rgba(000, 000, 000, 0.8); 
+    background-color: rgba(000, 000, 000, 0.8);
+    width: 195px; 
     border-style: outset;
     border-width: 5px;    
     border-color: rgb( 100, 100, 150); 
